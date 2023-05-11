@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CaraouCoroa</string>
+    <string name="bt_jogar">Jogar</string>
+    <string name="bt_voltar">Voltar</string>
+</resources>
